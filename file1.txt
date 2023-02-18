@@ -1,0 +1,15 @@
+heloo iak here to learn git and git form fullstack decelepement courese\
+
+
+to make local reposittory
+
+git init
+git add .   (dot means all filse of you can speicfy any file
+git commit -m "comments"   (make sure to add comments before commit)
+
+create new repo in githuv and copy it https code and get come code links directy by
+coping the codes from github directly and get to the termial by pasting it 
+input your user name 
+input your password which is tocken key
+
+
